@@ -1,0 +1,799 @@
+{
+  "data": [
+    {
+      "text_input": [
+        "En relación con el deber que me une a mis responsabilidades y al respeto por los principios que siempre he defendido, debo reconocer que mi esfuerzo ha sido constante, aunque a veces con resultados desiguales. A pesar de las dificultades encontradas en el camino, mi intención ha sido actuar siempre en beneficio del bien común. La esperanza de que mis acciones sean vistas con gratitud y entendimiento ha guiado mi camino. La decisión que ahora tomo, de no ser considerado nuevamente, no disminuye mi compromiso, sino que refleja el deseo de abrir paso a nuevas oportunidades."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Ofrezco mis servicios con la convicción de que el silencio, en mi situación actual, no sería lo más adecuado. Antes de la última elección, ya me movía un fuerte deseo de continuar sirviendo a mi país de la mejor manera posible. Que el cielo les siga concediendo sus mejores bendiciones. Mi agradecimiento por los muchos honores que he recibido a lo largo de los años es profundo, aunque siempre he mantenido el interés colectivo por encima del personal. Esta decisión de retirarme la llevo conmigo, sabiendo que he entregado lo mejor de mí, incluso ante los mayores desafíos."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "A lo largo de los años, he aprendido que el verdadero valor del servicio reside en la dedicación constante a una causa mayor que uno mismo. Aunque el camino haya estado lleno de obstáculos, cada decisión ha sido guiada por un profundo sentido de responsabilidad hacia quienes dependen de nuestras acciones. Ahora, al reflexionar sobre mi trayectoria, no puedo evitar sentir gratitud por las oportunidades que me han sido brindadas. Sin embargo, llega un momento en que uno debe ceder el paso a nuevas ideas y a quienes puedan continuar este noble esfuerzo."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "La vida pública me ha enseñado innumerables lecciones, entre ellas, la importancia de mantener la integridad en todo momento. He intentado, en la medida de mis capacidades, ser un ejemplo de dedicación y compromiso. No obstante, reconozco que el tiempo no se detiene, y con él, vienen nuevos retos que exigen perspectivas frescas. Mi decisión de no seguir adelante en este camino no es una señal de debilidad, sino de confianza en que las generaciones futuras están listas para asumir las riendas del destino que compartimos."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Después de años de dedicación al servicio de mi país, es inevitable que uno mire hacia atrás con una mezcla de satisfacción y humildad. El viaje no siempre ha sido fácil, pero cada paso dado fue con la intención de mejorar la vida de los demás. Mientras avanzo hacia una nueva etapa de mi vida, quiero asegurarles que mi compromiso con el bienestar común no ha disminuido. Simplemente, creo que ha llegado el momento de que otras voces se levanten y aporten su energía y visión a los desafíos que aún quedan por delante."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "El servicio público es, sin duda, una tarea difícil, pero también profundamente gratificante. He dado lo mejor de mí en cada oportunidad, consciente de que las decisiones que tomamos afectan a muchas personas. Aunque he disfrutado de la responsabilidad, siento que ahora es el momento adecuado para dar un paso al lado y permitir que otros asuman ese papel. Esta decisión no nace de un deseo de retirarme del deber, sino de una convicción de que el cambio es una parte necesaria del progreso."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "A lo largo de mi vida profesional, he sido testigo de la evolución de nuestra sociedad y de los muchos desafíos que hemos superado juntos. Siempre he creído en la capacidad de las personas para lograr grandes cosas cuando trabajan en unidad. Mi tiempo en el servicio ha sido un privilegio, y cada logro es un reflejo del esfuerzo colectivo. Sin embargo, estoy convencido de que el momento para mi retiro ha llegado. Esto permitirá que otros continúen con la misión de construir un futuro aún más prometedor."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Cada decisión que he tomado ha sido impulsada por el deseo de hacer lo correcto para nuestra comunidad. No siempre ha sido fácil, pero el sentido del deber y la responsabilidad hacia el bienestar común me ha guiado en todo momento. A medida que me preparo para cerrar este capítulo de mi vida, estoy lleno de gratitud por las oportunidades que se me han dado y por la confianza que han depositado en mí. Ahora es el momento de que otras personas tomen el relevo y continúen el trabajo que hemos comenzado juntos."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "El servicio a los demás es un valor que siempre he tenido presente en mi vida. Cada reto superado me ha recordado la importancia de mantener el enfoque en las necesidades del colectivo, por encima de las ambiciones personales. A pesar de los logros, llega un punto en el que uno debe reconocer que su ciclo ha llegado a su fin. Mi decisión de no continuar es un acto de confianza en que nuevas generaciones están listas para liderar con determinación, tal como lo hice en su momento, con la convicción de que juntos siempre se logra más."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Al mirar hacia atrás en mi carrera, no puedo evitar sentir una inmensa gratitud por todo lo que he vivido y aprendido. Mi deseo siempre ha sido servir con integridad, asegurándome de que cada acción estuviera alineada con los valores que defendemos. Sin embargo, llega un momento en que uno debe reconocer que ha cumplido su parte y que otros deben continuar con la tarea. Mi retirada no es una señal de cansancio, sino de la certeza de que nuevas ideas y enfoques beneficiarán a todos a largo plazo."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "El camino del servicio público está lleno de desafíos, pero también de oportunidades para marcar una diferencia real en la vida de los demás. He tenido la suerte de ser parte de este proceso durante muchos años, y aunque he enfrentado dificultades, siempre me he mantenido firme en mi compromiso con el bienestar de nuestra comunidad. Hoy, sin embargo, siento que es el momento adecuado para dar un paso al costado y permitir que nuevas voces tomen el liderazgo. Esta transición es una parte natural del proceso de crecimiento y evolución."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "A lo largo de mi carrera, he aprendido que el verdadero liderazgo no se trata de aferrarse al poder, sino de saber cuándo es el momento adecuado para dejarlo en manos de otros. He tratado de liderar con honestidad y dedicación, siempre priorizando el bienestar de nuestra gente. Sin embargo, es claro para mí que el futuro pertenece a las nuevas generaciones. Es por eso que he decidido no continuar en mi posición actual. Creo firmemente que este es el mejor camino a seguir para permitir que surjan nuevas ideas y soluciones."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Tout au long de ma carrière, j'ai cherché à servir avec intégrité et dévouement. Les décisions que j'ai prises ont toujours visé le bien commun, même lorsque les défis étaient nombreux. Aujourd'hui, alors que je réfléchis à ce parcours, je réalise que le moment est venu de céder la place à une nouvelle génération. Cette décision n'est pas motivée par un manque de volonté, mais plutôt par la conviction que d'autres, avec des idées nouvelles, sont prêts à poursuivre cette mission avec la même détermination et passion."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Servir mon pays a toujours été un honneur et un privilège. Chaque étape de ce parcours a renforcé mon engagement envers nos valeurs communes. Cependant, il est crucial de reconnaître que le temps apporte des changements nécessaires. Je crois fermement que c'est le bon moment pour moi de me retirer et de laisser la place à des voix plus jeunes, capables d'apporter des solutions innovantes aux défis actuels. Mon départ ne signifie pas la fin de mon engagement, mais plutôt une nouvelle étape pour notre société collective."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Après des années de service, il est temps pour moi de prendre du recul et de permettre à d'autres de continuer sur cette voie. Chaque décision que j'ai prise a été guidée par un profond sens du devoir et de la responsabilité. Je pars avec la certitude que la prochaine génération est prête à relever les défis futurs avec vigueur et engagement. Ce départ ne diminue en rien mon attachement aux idéaux que nous avons défendus ensemble. Il est simplement temps d'ouvrir la voie à ceux qui sauront porter la flamme plus loin."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Le service public a été pour moi une vocation, un chemin difficile mais profondément gratifiant. À chaque instant, j'ai cherché à faire ce qui était juste pour la collectivité. Aujourd'hui, je ressens qu'il est nécessaire de faire un pas de côté et de permettre à une nouvelle génération de leaders de s'épanouir. Cette décision n'est pas un adieu, mais plutôt une transition naturelle. Je suis convaincu que ceux qui viendront après moi sauront continuer à bâtir un avenir meilleur pour tous, avec l'énergie et les idées qu'exige notre temps."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Mon engagement dans la vie publique a toujours été motivé par un désir sincère de contribuer au bien-être de notre communauté. À travers les succès et les difficultés, j'ai maintenu le cap avec dévouement et conviction. Toutefois, le moment est venu pour moi de prendre du recul et de permettre à d'autres de poursuivre cet important travail. Cette décision n'est pas prise à la légère, mais avec la certitude que le changement est une force positive. Je reste confiant que la nouvelle génération est prête à mener à bien cette mission avec force et détermination."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Servir la communauté a toujours été pour moi une source de grande fierté et de responsabilité. Chaque étape de mon parcours a été marquée par le désir de faire avancer le bien commun, même face aux défis les plus complexes. Aujourd'hui, je reconnais qu'il est temps pour moi de passer le relais. Non pas par lassitude, mais parce que je crois fermement qu'une nouvelle génération est prête à prendre la relève et à continuer sur cette voie. Cette transition marque une nouvelle ère, pleine de promesses et de possibilités."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Avec le temps, j'ai appris que le leadership ne réside pas seulement dans l'action, mais aussi dans la capacité à savoir quand il est temps de laisser place à d'autres. Mon parcours a été guidé par une profonde volonté de servir, mais il est maintenant clair pour moi que le moment est venu de céder la place à une nouvelle génération. Cela ne diminue en rien mon engagement envers nos idéaux communs. Au contraire, je crois que ce changement est essentiel pour permettre de nouvelles perspectives et pour que notre société continue d'évoluer."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Mon passage dans la vie publique a été un voyage riche en enseignements et en défis. Chaque jour, j'ai tenté de répondre aux attentes avec rigueur et passion, toujours dans l'intérêt de la collectivité. Cependant, le moment est venu pour moi de prendre un nouveau chemin et de permettre à d'autres de continuer ce travail important. Je suis convaincu que la nouvelle génération de leaders saura faire face aux enjeux à venir, avec le même esprit de service. Cette transition est une étape naturelle pour garantir un avenir meilleur."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Le service à la nation a été pour moi une source de satisfaction immense, mais également de défis constants. À chaque instant, j'ai tenté d'agir avec intégrité et responsabilité, guidé par l'intérêt général. Maintenant, il est temps de permettre à d'autres de prendre la relève. Ce départ n'est pas un signe de renoncement, mais un acte de confiance envers ceux qui sont prêts à poursuivre cette mission. Je suis persuadé que de nouvelles voix, porteuses d'innovations et de dynamisme, sont prêtes à écrire le prochain chapitre."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Avec un profond sentiment de gratitude, je réfléchis à mes années de service, pleines de défis et de réussites. Mon engagement envers le bien commun a toujours été au cœur de mes actions. Pourtant, le temps est venu pour moi de me retirer et de laisser place à une nouvelle génération, prête à apporter des idées fraîches et de l'énergie à notre société. Cette décision ne marque pas la fin de mon engagement, mais plutôt le début d'une nouvelle phase où je crois que d'autres sauront porter haut les valeurs que nous avons toujours défendues ensemble."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "私の公務は挑戦と喜びに満ちていました。常に公共の利益を考え、国民の信頼に応えようと努力してきました。しかし、今は新しい 世代に道を譲る時だと感じています。私の退任は未来を託す重要な一歩です。新しいリーダーが新たな可能性を開くことを願っています。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "公務の道を歩んできた中で、多くの喜びと困難を経験しました。常に公共の利益を最優先に考え、誠実さを持って取り組んできまし た。今、私は新しい世代にその役割を託す時が来たと感じています。私の退任は新たな出発を意味し、未来を開く大切なステップです。新しいリーダーたちが道を切り開いてくれることを期待しています。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "私の公務は多くの挑戦と成果に満ちていました。国民のために尽力することが、私の最大の誇りでした。しかし、今は新しい時代を 迎えるべき時だと感じています。退任は後退ではなく、新たな可能性を託す一歩です。次世代のリーダーが未来を形作ることを期待しています。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "公務の中で、多くの学びや貴重な経験を得てきました。常に国民のために最善を尽くし、信頼を築くことを心掛けてきました。しか し今、私は次の世代に道を譲る時だと感じています。この決断は新たな未来を託すための重要なステップです。新しいリーダーが新たな可能性を開くことを願っています。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "私の公務には多くの挑戦と喜びがありました。常に公共の利益を優先し、国民の信頼に応えることを目指してきました。しかし、今 は次の世代にその役割を引き継ぐ時が来たと感じています。私の退任は新たな可能性を託す重要な一歩です。新しいリーダーたちが未来を切り開いてくれることを信じています。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "公務を通じて、数多くの挑戦と成果を経験しました。常に公共の利益を考え、国民の期待に応えようと努めてきました。しかし、今 は新しい世代に道を譲る時だと感じています。この退任は後退ではなく、新たな未来を託す大切な一歩です。次のリーダーたちが新しい道を切り開いてくれることを願っています。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "私の公務の道は、挑戦と成長の連続でした。常に国民の利益を優先し、信頼を得ることを目指してきました。しかし今、次の世代に その役割を譲るべき時が来たと感じています。私の退任は新たな未来を託す重要な一歩です。新しいリーダーたちが未来を築くことを期待しています。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "公務における私の道のりは、多くの試練と喜びで満ちていました。国民のために尽力し、信頼に応えようと努めてきました。しかし 、今は次世代にその役割を譲る時だと感じています。私の退任は未来を託す重要な一歩です。新しいリーダーたちが新たな可能性を開いてくれることを願っています。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "公務における経験は、数多くの挑戦と学びをもたらしました。常に公共の利益を考え、国民の期待に応えることを心掛けてきました 。しかし、今は新しい世代に道を譲る時だと感じています。私の退任は、未来を託す大切なステップです。新しいリーダーが新たな可能性を切り開くことを期待しています。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "私の公務の道は、挑戦と達成感に満ちていました。常に公共の利益を最優先に考え、国民の信頼に応えることを目指してきました。 しかし、今は次の世代にその役割を譲る時だと感じています。私の退任は新たな未来を託す重要な一歩です。新しいリーダーが可能性を広げてくれることを願っています。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "我的职业生涯充满挑战与成长。我始终将团队成功放在首位，努力支持每个成员。经过多年的奋斗，我觉得是时候追求自己的梦想了。 虽然离开让我不舍，但我相信新旅程会带来新机遇。我希望我的同事们继续发扬团队精神，迎接未来的挑战。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "亲情是我生活中最珍贵的财富。无论身在何处，家人的支持总伴我左右。随着时间流逝，我越来越重视家庭关系。我希望能花更多时间 陪伴家人，分享快乐与困难。珍惜亲情让我的人生更加丰富，我愿意为此付出努力。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "教育改变了无数人的命运。我在教学中目睹了学生的成长与蜕变。我相信每个孩子都具备无限潜力，只需给予他们指导。现在，我希望 投入更多精力于教育事业，帮助更多孩子追求梦想，铺就成功之路。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "环保是我们共同的责任。随着社会发展，我对可持续发展有了更深刻的理解。每个人都应为保护地球出一份力。我希望通过志愿活动推 广环保理念，鼓励更多人关注环境问题。让我们共同努力，创造更美好的未来。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "旅行是我探索世界的方式。在不同文化中，我体会到人类的多样性。每次旅行都让我开阔视野，增加对生活的理解。我计划探索更多未 知的地方，体验不同风俗与习惯，丰富自己的生命体验。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "创新是推动社会发展的动力。我始终坚持创新思维，寻找解决问题的新方法。我希望激励同事们参与创新，共同为公司的未来贡献力量 。通过合作，我们能够创造更多价值，实现共同目标。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "健康是生活中最重要的财富。随着生活节奏加快，我意识到保持身体健康的重要性。我开始积极锻炼，调整饮食习惯，追求健康生活。 未来，我希望推广健康理念，帮助更多人关注自身健康。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "艺术是我表达情感的方式。在创作中，我找到自我表达的途径。无论是绘画还是音乐，每种艺术形式都让我感受到创造的快乐。我希望 投入更多时间于艺术创作，探索更深层次的自我，分享我的感受。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "志愿服务让我体会到帮助他人的快乐。在参与志愿活动的过程中，我感受到付出的意义。无论是帮助孤寡老人还是支持学生，我希望继 续参与志愿活动，把爱心传递给更多需要帮助的人。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "科技的迅速发展改变了我们的生活。我意识到学习新知识的重要性，决定加强自我学习，掌握更多技能。未来，我希望在科技领域做出 贡献，为社会的发展添砖加瓦，共同迈向更美好的未来。"
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "My career has been filled with challenges that have fostered both personal and professional growth. I have always prioritized my team's success, striving to support each member in reaching their goals. After years of hard work, I feel it’s time to pursue my personal dreams. While leaving my current role makes me nostalgic, I believe this new chapter will bring exciting opportunities. I hope my colleagues will continue to embody teamwork and embrace the challenges that lie ahead, forging paths toward success together."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Family has always been my greatest source of strength and inspiration. No matter where I go, the unwavering support of my family has been a guiding light. Reflecting on the importance of these bonds, I want to dedicate more quality time to nurturing our relationships. Sharing moments of joy and overcoming obstacles together can strengthen our connections. By prioritizing family, I hope to create lasting memories that enrich our lives and reinforce our bonds as a loving unit."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Education has the power to change lives. Throughout my teaching career, I have witnessed countless students grow and transform into confident individuals. I believe every child has immense potential waiting to be unlocked with the right guidance. Now, I want to dedicate more time to educational initiatives that empower students to pursue their dreams. Education is the foundation for a brighter tomorrow, and I am excited to contribute to that journey for many students."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Environmental protection is an urgent issue we must all embrace. As society evolves, I’ve gained a deeper understanding of sustainability and preserving our planet. Each person plays a role in safeguarding our Earth, and I am committed to doing my part. I aspire to engage in community initiatives that promote environmental awareness and educate others about protecting our natural resources. Together, we can create a lasting impact and promote sustainable living for future generations."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "hi opinion of duty and to a deference for what appeared\nimply, I am influenced by no diminution of zeal for\nconfidence with which it has supported me; and for\nmotives which I was not at liberty to disregard, to\nadmonishes me more and more that the shade of\nThe period for a new election of a citizen to\nunder circumstances in which the passions agitated in\npersevering, though in usefulness unequal to my zeal.\nappearances sometimes dubious, vicissitudes of  intended to terminate the career of my "
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Traveling allows me to explore diverse cultures and perspectives. Each journey helps me appreciate the beauty of human diversity and enriches my understanding of life. I plan to discover more unknown destinations and immerse myself in different customs. These experiences will broaden my horizons and foster a more open-minded view of various cultures. I believe that travel can greatly enrich my life and contribute to a more accepting world."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Innovation is the key driver of progress in any field. I have always embraced creative thinking and sought new ways to solve problems. I hope to inspire my colleagues to cultivate a culture of innovation at work. By collaborating and sharing ideas, we can create more value for our organization and enhance our ability to overcome challenges. Fostering creativity will not only lead to success but also strengthen our team's purpose and unity."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Maintaining good health is vital for a fulfilling life. As daily life accelerates, I realize the importance of prioritizing my physical and mental well-being. I have started exercising regularly and adopting healthier habits to improve my health. Moving forward, I aim to promote healthy living among friends and family. By emphasizing wellness, I hope we can all enjoy vibrant and rewarding lives together, creating a supportive community focused on health."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Art is a powerful means of self-expression. Through my creative endeavors, I find ways to convey my emotions and thoughts. Whether painting, writing, or playing music, each art form brings me joy. I plan to dedicate more time to my artistic pursuits, exploring new styles while diving deeper into my creative process. By sharing my art with others, I hope to inspire connections through shared experiences that resonate with the human condition."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "Volunteering has shown me the joy of helping others. Throughout my experiences, I have felt the profound satisfaction that comes from giving back to my community. Whether assisting elderly individuals or supporting students, I’ve discovered that small acts of kindness can create a significant impact. I wish to continue my involvement in volunteer activities, spreading compassion and encouraging others to participate, fostering a culture of care within our communities."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    },
+    {
+      "text_input": [
+        "The rapid advancement of technology is reshaping our lives in unprecedented ways. I appreciate the importance of learning new skills to keep pace with this evolving landscape. Embracing lifelong learning allows me to stay relevant and adapt to challenges. I am committed to investing time in self-improvement, mastering new technologies, and exploring innovative solutions. My goal is to contribute positively to the tech field, helping to shape a future where technology enhances our lives."
+      ],
+      "model": "llama3.2-1b",
+      "stream": [
+        true
+      ],
+      "exclude_input_in_output": [
+        true
+      ],
+      "sampling_parameters": [
+        "{\"max_tokens\": 512, \"ignore_eos\": true}"
+      ]
+    }
+  ]
+}
